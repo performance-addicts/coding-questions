@@ -37,4 +37,5 @@ BONUS
 Expanding off of question 1, navigate to https://www.coachoutlet.com. We would like to modify the function in the first script to list all FIRST PARTY scripts. The objects should contain the same details, but the array should only contain scripts that have urls that originate from coachoutlet.com domain.
 This is a bit tricky and will require you to really look over the DOM and find a pattern.
 If you successfully create the first function, use that function on https://www.coachoutlet.com and use the list of scripts to see if you can find the pattern.
+
 hint: Some first party scripts don't start with https://www.coachoutlet.com or even contain coachoutlet.com in the url.
