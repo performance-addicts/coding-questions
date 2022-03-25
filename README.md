@@ -25,11 +25,11 @@ removeAllCSS();
 3. Create a function that returns an array of all inline script tags on the page. The array should only contain the body of each inline script tag for each entry.
 
 ```
-function getAllInlineScripts() {
+function listAllInlineScripts() {
 
 }
 
-console.table(getAllInlineScripts());
+console.table(listAllInlineScripts());
 ```
 
 BONUS 1
